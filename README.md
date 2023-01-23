@@ -7,7 +7,7 @@
 <h1 align="center">Hello 👋, I'm Uchenna-Ibute</h1>
 <h3 align="center">A passionate full-stack software development student at Microverse</h3>
 
-- 🌱 I’m currently learning **Html,CSS,Javascript,Data-structure**
+- 🌱 I’m currently learning **Html,CSS,JavaScript,Data-structure**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
