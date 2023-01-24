@@ -20,7 +20,7 @@
 
 <div align="center">
 
-  <img src="img/UCHENNA iBUTE.png" alt="logo" width="140"  height="auto" />
+  <img src="img/UCHENNA iBUTE.png" alt="logo" />
   <br/>
 
 </div>
