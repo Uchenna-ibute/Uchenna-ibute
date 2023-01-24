@@ -20,7 +20,7 @@
 
 <div align="center">
 
-  <img src="https://www.canva.com/design/DAFYfVjwyxQ/DcjYda32H4B48N-gEjYsbA/edit?utm_content=DAFYfVjwyxQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" alt="logo" width="140"  height="auto" />
+  <img src="img/UCHENNA iBUTE.png" alt="logo" width="140"  height="auto" />
   <br/>
 
 </div>
